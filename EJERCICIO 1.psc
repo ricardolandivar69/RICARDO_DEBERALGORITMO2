@@ -1,4 +1,4 @@
-Algoritmo Numero_par
+Algoritmo Par_Numero
 	Escribir "Escriba un numero"
 	leer num
 	cont=1
