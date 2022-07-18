@@ -1,4 +1,4 @@
-Algoritmo PRODUCTO
+Algoritmo producto
 	definir lm Como Caracter
 	definir n Como Real
 	mult=1
